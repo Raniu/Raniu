@@ -12,4 +12,4 @@ My main skills are HTML, CSS, JavaScript, Vue.js and TypeScript.
 💬 If you want to contact me, please leave me a message!
 
 ### Skills
-<a href="" target="_blank"><img data-canonical-src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&amp;logo=Quarkus&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://img.shields.io/badge/HTML5" target="_blank"><img data-canonical-src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&amp;logo=Quarkus&amp;logoColor=white" style="max-width: 100%;"></a>
