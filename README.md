@@ -20,4 +20,4 @@ My main skills are HTML, CSS, JavaScript, Vue.js and TypeScript.
 
 <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
